@@ -1,4 +1,4 @@
-# Elliott Rahming's Portfolio Website
+# Portfolio Website
 
 ## Overview
 
